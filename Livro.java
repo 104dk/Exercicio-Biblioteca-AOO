@@ -31,11 +31,3 @@ public class Livro
     }
     
 }
-//Autor Autor2 = new Autor();
-
-
-
- //       Autor1.emprestadoPor = new Pessoa("Stephen Hawking");
-   //     Autor2.emprestadoPor = new Pessoa("Usuario");
-
-     //   System.out.println(livro.emprestadoPor.getNome());// nome//emprestado e um objeto
